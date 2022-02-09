@@ -16,3 +16,4 @@ module AES(key,inputText,enable,operation,outputText);
     MUX_16Bit_2x1 mux2(result,inputText,enable,outputText);
     
 endmodule
+
