@@ -18,3 +18,4 @@ module tb();
         $monitor ("%b     %b", inputText, outputText);
     end
 endmodule
+
