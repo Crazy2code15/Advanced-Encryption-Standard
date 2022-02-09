@@ -40,3 +40,4 @@ module Encryption(key,plainText,cipherText);
     assign cipherText = {a1_out,d1_out,c1_out,b1_out} ^ k2;
 
 endmodule
+
